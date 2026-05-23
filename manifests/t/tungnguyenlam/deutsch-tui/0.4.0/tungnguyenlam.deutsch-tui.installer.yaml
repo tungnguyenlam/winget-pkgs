@@ -10,11 +10,11 @@ ReleaseDate: "2026-05-23"
 Installers:
   - Architecture: arm64
     InstallerUrl: https://github.com/tungnguyenlam/language-learning-tui/releases/download/v0.4.0/deutsch-tui-windows-arm64.exe
-    InstallerSha256: 9586792c402e460eb9a8386bdb4dd84f7984a1f01edc48da5f717fa8bfa774c4
+    InstallerSha256: b77e3064d58c4833b73316ab31e7b119ec46d45ad1a19b891f7603c2d0325961
     UpgradeBehavior: uninstallPrevious
   - Architecture: x64
     InstallerUrl: https://github.com/tungnguyenlam/language-learning-tui/releases/download/v0.4.0/deutsch-tui-windows-amd64.exe
-    InstallerSha256: b77ef8d3f682a97a1ab986f524f9a84a8851f3d8de3d2a31b8334b9fed68f283
+    InstallerSha256: 06019884142c5871d14192b1c6f29eafada41b6630ee8184c9ae304a2f502e98
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.12.0
